@@ -49,3 +49,5 @@ Employee E002: 19 leave days remaining
 
 These are the employees currently in the system. If there are other employee IDs you'd like me to check, please let me know!
 ```
+## Sample Input Output
+![](images/claude_sample.png)
